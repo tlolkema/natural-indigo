@@ -1,0 +1,21 @@
+{
+  "name": "natural-indigo",
+  "displayName": "natural-indigo",
+  "description": "An easy on the eyes, blue, natural indigo inspired colour theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Natural Indigo",
+        "uiTheme": "vs-dark",
+        "path": "./themes/NaturalIndigo.json"
+      }
+    ]
+  }
+}
