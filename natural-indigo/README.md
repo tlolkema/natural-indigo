@@ -1,16 +1,25 @@
 # Natural Indigo
 
-## Working with Markdown
+## About
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+This theme aims to be easy on the eyes, with muted colours and good readability.
+Compared to most other colour themes there is not too much attention on string colours, making it especially suited for coding automated tests.
 
-- Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-- Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-- Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+Indigo:
 
-## For more information
+"Indigo dye is an organic compound with a distinctive blue color. Historically, indigo was a natural dye extracted from the leaves of some plants of the Indigofera genus"
 
-- [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-- [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Examples
 
-**Enjoy!**
+NextJS:
+
+<p align="center"><img src="https://raw.githubusercontent.com/tlolkema/natural-indigo/master/nextjs-screenshot.png"/></p>
+
+Cypress:
+
+<p align="center"><img src="https://raw.githubusercontent.com/tlolkema/natural-indigo/master/cypress-screenshot.png"/></p>
+
+## Credits
+
+- This theme is based on the amazing Nord theme:
+  [Nord](https://github.com/arcticicestudio/nord-visual-studio-code)
