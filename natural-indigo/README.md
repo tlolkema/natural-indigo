@@ -1,13 +1,11 @@
-# Natural Indigo
+<p align="center"><img src="https://raw.githubusercontent.com/tlolkema/natural-indigo/master/natural-indigo-header.png"/></p>
 
 ## About
 
 This theme aims to be easy on the eyes, with muted colours and good readability.
 Compared to most other colour themes there is not too much attention on string colours, making it especially suited for coding automated tests.
 
-Indigo:
-
-"Indigo dye is an organic compound with a distinctive blue color. Historically, indigo was a natural dye extracted from the leaves of some plants of the Indigofera genus"
+> "Indigo dye is an organic compound with a distinctive blue color. Historically, indigo was a natural dye extracted from the leaves of some plants of the Indigofera genus"
 
 ## Examples
 
