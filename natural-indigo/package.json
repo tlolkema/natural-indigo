@@ -1,8 +1,11 @@
 {
   "name": "natural-indigo",
-  "displayName": "natural-indigo",
-  "description": "An easy on the eyes, blue, natural indigo inspired colour theme",
-  "version": "0.0.1",
+  "displayName": "Natural Indigo",
+  "description": "An easy on the eyes, dark, blue theme",
+  "repository": "https://github.com/tlolkema/natural-indigo/tree/master/natural-indigo",
+  "icon": "assets/icon.png",
+  "publisher": "tlolkema",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.70.0"
   },
